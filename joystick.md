@@ -11,4 +11,5 @@ categories:
   - Συσκευές εισόδου
 tags:
   - Spectravideo
+  - Quickshot I Joystick
 ---
