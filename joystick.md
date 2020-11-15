@@ -1,0 +1,13 @@
+---
+author: std145288
+title: Joystick
+year: 1983
+image_url: /images/joystick.jpg
+caption: 'Κείμενο προς επεξεργασία'
+license_url: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Quickshot_joystick_%287099657615%29.jpg'
+license_text: ccwoodcock, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
+categories:
+  - Αρχέτυπα 
+tags:
+  - Spectravideo
+---
